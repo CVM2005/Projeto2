@@ -1,14 +1,14 @@
 html, body {
-	margin: 0;
+	margin: 00;
 	padding: 0;
 }
 
 body {
-	background: linear-gradient(to bottom right, #70002a, black);	font-family: 'Montserrat', sans-serif;
+	background: linear-gradient(to bottom right, #70002a, black);	font-family: '', sans-serif;
 }
 
 .navigation {
-	color: white;
+	color:blue;
 	height: 50px;
 
 	animation-name: nav-anim;
@@ -73,7 +73,7 @@ body {
 }
 
 .profile-title {
-	color: white;
+	color: blue;
 	vertical-align: top;
 	width: 59%;
 
@@ -100,7 +100,7 @@ body {
 	float: left;
 	margin-right: 20px;
 	padding:1px;
-	border:1px solid white;
+	border:1px solid blue;
 	background-color: white;
 	border-radius: 10px;
 }
@@ -118,7 +118,7 @@ body {
 }
 
 .main h2 {
-	color: white;
+	color: green;
 	font-size: 16px;
 	text-transform: uppercase;
 	font-weight: normal;
@@ -352,14 +352,4 @@ body {
 		width: 100%;
 	}
 
-}
-.botao-cv {
-    display: inline-block;
-    padding: 15px 25px;
-    background: #b8863b;
-    color: white;
-    text-decoration: none;
-    border-radius: 8px;
-    font-size: 18px;
-    margin-top: 20px;
 }
